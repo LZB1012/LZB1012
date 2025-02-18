@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Lawal Zakariyah
-- 👀 I’m interested in Data Analytics, Data Science
-- 🌱 I’m currently learning Analytics
+- 👀 I’m interested in Data Analytics, supply chain analytics 
+- 🌱 I’m currently learning supply chain Analytics
 - 💞️ I’m looking to collaborate on anything data
 - 📫 How to reach me: lawalzakariyah195@gmail.com
 - 😄 Pronouns: I'm a male
